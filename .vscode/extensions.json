@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "aeschli.vscode-css-formatter",
+        "formulahendry.auto-rename-tag",
+        "icrawl.discord-vscode",
+        "dsznajder.es7-react-js-snippets",
+        "esbenp.prettier-vscode"
+    ]
+}
